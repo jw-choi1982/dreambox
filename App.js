@@ -4,8 +4,7 @@ import {
   Animated, SafeAreaView, StatusBar, Alert,
 } from 'react-native';
 
-// ⚠️  Cloudflare Worker 배포 후 실제 URL로 교체하세요
-const API_URL = 'https://dreambox.workers.dev';
+const API_URL = 'https://dreambox.09sheis.workers.dev';
 
 const C = {
   bg: '#0a0a0f',
